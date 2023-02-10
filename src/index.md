@@ -1,0 +1,1 @@
+Hola Erick! este es tu training de VSC 
