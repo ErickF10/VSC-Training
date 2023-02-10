@@ -1,1 +1,2 @@
-Hola Erick! este es tu training de VSC 
+Hola Erick! este es tu training de VSC
+cambio de la nueva rama  
